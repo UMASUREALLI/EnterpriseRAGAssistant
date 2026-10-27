@@ -1,0 +1,33 @@
+
+[
+  {
+    "question": "Who needs to approve my time off?",
+    "expected_answer": "The employee's direct manager must approve the leave request.",
+    "expected_source": "annual_leave_policy.txt",
+    "expected_chunk_index": 0
+  },
+  {
+    "question": "How many annual leave days do eligible full-time employees receive?",
+    "expected_answer": "Eligible full-time employees receive 20 days of annual leave per calendar year.",
+    "expected_source": "annual_leave_policy.txt",
+    "expected_chunk_index": 0
+  },
+  {
+    "question": "How far in advance should planned leave be requested?",
+    "expected_answer": "Planned leave requests should be submitted at least five working days in advance.",
+    "expected_source": "annual_leave_policy.txt",
+    "expected_chunk_index": 0
+  },
+  {
+    "question": "What should an employee do in an emergency leave situation?",
+    "expected_answer": "The employee should communicate with their manager as soon as reasonably possible.",
+    "expected_source": "annual_leave_policy.txt",
+    "expected_chunk_index": 0
+  },
+  {
+    "question": "Which department handles additional questions about annual leave?",
+    "expected_answer": "Employees should contact the Human Resources department.",
+    "expected_source": "annual_leave_policy.txt",
+    "expected_chunk_index": 1
+  }
+]

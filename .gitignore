@@ -1,0 +1,24 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# Local database and uploaded files
+data/chroma_db/
+data/uploads/
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Logs and caches
+*.log
+.pytest_cache/
+.mypy_cache/
+# Local source documents
+data/documents/
